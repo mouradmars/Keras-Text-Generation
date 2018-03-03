@@ -25,10 +25,29 @@ The model will not be case sensitive and it will not ignore punctuations. It wil
 
 ## Sample Generation
 
-***Shakespeare - One epoch***
+### Shakespeare
+***One epoch***
 
 chus:
 my lord, i hear.
 
 pericles:
 most him and the beging of my bear the bear of my bear the bear of my bear the bear of my bear the bear of my bear the bear of my bear the bear of my bear the bear of my bear the bear of my bear the bear of my bear the bear of my bear the bear of my bear the bear of my bear the bear of my bear the bear of my bear the bear of my bear the bear of my bear the bear of my bear the bear of my bear the bear of
+
+***Three epochs***
+
+lucentio:
+what shall i was the world that i will be so life
+the man in the shall be the such a threel.
+
+benedick:
+what shall i lies the ways that well be so soul.
+
+cornwall:
+i will not be not the world of thy loved,
+that i am the strength of the hands of the good
+that i will be the arm of the hands and soul.
+
+king richard ii:
+hark the sun and
+

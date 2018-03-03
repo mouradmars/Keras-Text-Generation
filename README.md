@@ -22,7 +22,7 @@ The model should predict the letter **"g"**
 The model will not be case sensitive and it will not ignore punctuations. It will not read words but specific letters.It will also need an initial input phrase of 40 characters in order to generate text and from there its output will become its input.
 
 ## Sample Generation
-*** Shakespeare - One epoch***
+*** Shakespeare - One epoch ***
 
 chus:
 my lord, i hear.

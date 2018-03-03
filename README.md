@@ -37,15 +37,15 @@ most him and the beging of my bear the bear of my bear the bear of my bear the b
 ***Three epochs***
 
 lucentio:
-what shall i was the world that i will be so life
+what shall i was the world that i will be so life<br/>
 the man in the shall be the such a threel.
 
 benedick:
 what shall i lies the ways that well be so soul.
 
 cornwall:
-i will not be not the world of thy loved,
-that i am the strength of the hands of the good
+i will not be not the world of thy loved,<br/>
+that i am the strength of the hands of the good<br/>
 that i will be the arm of the hands and soul.
 
 king richard ii:

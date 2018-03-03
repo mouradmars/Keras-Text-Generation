@@ -16,7 +16,7 @@ len(sentence)
 
 The model will be fed a certain amount of character and it will try to predict the next character as seen below:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>The quick brown fox jumps over the lazy do </i>** [?]**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>The quick brown fox jumps over the lazy do </i>**[?]**
 
 The model should predict the letter **"g"**
 
@@ -25,7 +25,7 @@ The model will not be case sensitive and it will not ignore punctuations. It wil
 
 ## Sample Generation
 
-*** Shakespeare - One epoch ***
+***Shakespeare - One epoch***
 
 chus:
 my lord, i hear.
